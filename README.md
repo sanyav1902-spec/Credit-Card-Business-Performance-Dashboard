@@ -1,6 +1,6 @@
 > 📌 End-to-end business analysis project: Designed 3 dashboards (Executive, Financial, Customer) in **Power BI** with SQL + DAX to monitor KPIs, uncover insights, and recommend growth strategies.
 
-# 📊 Credit Card Business Performance Dashboard  
+# 📊 Credit Card Business Growth Strategy 
 
 ### Objective  
 Built 3 dashboards (Executive, Financial, Customer Growth) using **Power BI, SQL, and DAX** to analyze credit card business performance.  
